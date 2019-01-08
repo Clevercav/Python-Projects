@@ -4,11 +4,11 @@ All projects are from Martyr2's mega project list. Link: https://www.dreamincode
 
 - Text
 
-- [x] Reverse a String – Enter a string and the program will reverse it and print it out. 
+- [x] Reverse a String – Enter a string and the program will reverse it and print it out.
 
 - [x] Pig Latin – Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
 
-- [ ] Count Vowels – Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
+- [x] Count Vowels – Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
 
 - [ ] Check if Palindrome – Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
 
@@ -47,7 +47,7 @@ All projects are from Martyr2's mega project list. Link: https://www.dreamincode
 
 - [ ] Chat Application (IRC or MSN Style) – Create a chat application that can create simple chat rooms like on Internet Relay Chat (IRC) or a more direct chatting style like MSN. For added complexity, create your own protocol to facilitate this chatting.
 
-- [ ] Fetch Current Weather – Get the current weather for a given zip/postal code. 
+- [ ] Fetch Current Weather – Get the current weather for a given zip/postal code.
 
 - [ ] P2P File Sharing App – Create a program like LimeWire, FrostWire, Bearshare, or a torrent style application.
 
@@ -108,7 +108,7 @@ All projects are from Martyr2's mega project list. Link: https://www.dreamincode
 
 - [ ] File Downloader – An application which can download various objects on a page including video streams or all files on a page. Great for pages with a lot of download links.
 
-- [ ] Telnet Application – Create an application which can telnet into servers across the internet and run basic commands. 
+- [ ] Telnet Application – Create an application which can telnet into servers across the internet and run basic commands.
 
 - [ ] Online White Board – Create an application which allows you and friends to collaborate on a white board online. Draw pictures, write notes and use various colors to flesh out ideas for projects. For added complexity try building in picture tubes.
 
@@ -188,7 +188,7 @@ All projects are from Martyr2's mega project list. Link: https://www.dreamincode
 
 - [ ] TV Show Tracker – Got a favorite show you don’t want to miss? Don’t have a PVR or want to be able to find the show to then PVR it later? Make an application which can search various online TV Guide sites, locate the shows/times/channels and add them to a database application. The database/website then can send you email reminders that a show is about to start and which channel it will be on.
 
-- [ ] Travel Planner System – Make a system that allows users to put together their own little travel itinerary and keep track of the airline / hotel arrangements, points of interest, budget and schedule. 
+- [ ] Travel Planner System – Make a system that allows users to put together their own little travel itinerary and keep track of the airline / hotel arrangements, points of interest, budget and schedule.
 
 - [ ] Entity Relationship Diagram (ERD) Creator – A program that allows the user to put together ERD diagram and save it or have it generate some basic SQL syntax to give them a jump start.
 
@@ -209,7 +209,7 @@ All projects are from Martyr2's mega project list. Link: https://www.dreamincode
 
 - [ ] Mp3 Player (and Other Formats) – A simple program for playing your favorite music files. For extra complexity see if you can add in playlists and an equalizer.
 
-- [ ] Bulk Picture Manipulator – This program will take in a directory of pictures and apply a certain effect to them whether it be reducing color count, changing its format, or alter file attributes. For something extra try to see if you can also create a system to tag them. 
+- [ ] Bulk Picture Manipulator – This program will take in a directory of pictures and apply a certain effect to them whether it be reducing color count, changing its format, or alter file attributes. For something extra try to see if you can also create a system to tag them.
 
 - [ ] CD Burning App – Create a utility that simply burns data to a CD.
 
