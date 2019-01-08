@@ -41,7 +41,7 @@ All projects are from Martyr2's mega project list. Link: https://www.dreamincode
 
 - Networking
 
-- [ ] - [ ] FTP Program – A file transfer program which can transfer files back and forth from a remote web sever.
+- [ ] FTP Program – A file transfer program which can transfer files back and forth from a remote web sever.
 
 - [ ] Get Atomic Time from Internet Clock – This program will get the true atomic time from an atomic time clock on the Internet. There are various clocks across the world. Do a search for a list of them.
 
