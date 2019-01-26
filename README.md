@@ -14,3 +14,7 @@ I will normally do the bare minimum of these projects, but there might be cases 
 - [x] Check if Palindrome (CLI application)
 
 - [x] Count Words in a String (GUI application)
+
+# How to run the apps
+Developed in Python 3.6.7
+To run an application simply navigate to a project folder and write `python3 "name of project"`
